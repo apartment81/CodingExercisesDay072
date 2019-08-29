@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RPSLS</string>
+    <string name="btn_rock">ROCK</string>
+    <string name="btn_scissors">SCISSORS</string>
+    <string name="btn_paper">PAPER</string>
+    <string name="btn_lizard">LIZARD</string>
+    <string name="btn_spock">SPOCK</string>
+
+</resources>
